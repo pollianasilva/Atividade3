@@ -15,8 +15,9 @@ Esta atividade consiste na criação de uma página web utilizando HTML e CSS, a
    ```bash
    git clone https://github.com/pollianasilva/Atividade3
 
-
 DEPLOY: https://nutrividaa.netlify.app/ 
+
+![capturadetela](https://github.com/user-attachments/assets/fc860ba1-2086-46eb-ac53-1f0408b5d1dd)
 
 ## Estrutura da Página
 
